@@ -10,7 +10,7 @@
     "type": "git",
     "url": "https://github.com/bingeboy/event-ripping.git"
   },
-  "author": "bingeboy",
+  "author": "bingeboy", "kedardes",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/bingeboy/event-ripping/issues"
