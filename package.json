@@ -1,0 +1,23 @@
+{
+  "name": "event-ripping",
+  "version": "0.0.0",
+  "description": "ripping and tearing up events",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bingeboy/event-ripping.git"
+  },
+  "author": "bingeboy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bingeboy/event-ripping/issues"
+  },
+  "dependencies": {
+    "nodemon": "~0.7.8",
+    "request": "~2.25.0",
+    "jsdom": "~0.8.2"
+  }
+}
