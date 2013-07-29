@@ -13,8 +13,8 @@
   "contributors" : {
 	"name" : "JP McGarrity",
 	"email" : "design@jpmcgarrity.com",
-    "url" : "http://jpmcgarrity.com"
-  } 
+    	"url" : "http://jpmcgarrity.com"
+  }, 
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/bingeboy/event-ripping/issues"
