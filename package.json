@@ -1,6 +1,6 @@
 {
   "name": "event-ripping",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "ripping and tearing up events",
   "main": "index.js",
   "scripts": {
