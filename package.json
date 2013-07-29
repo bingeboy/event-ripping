@@ -1,7 +1,7 @@
 {
   "name": "event-ripping",
   "version": "0.0.0",
-  "description": "ripping and tearing up events",
+  "description": "ripping and tearing up events with mapping",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js"
